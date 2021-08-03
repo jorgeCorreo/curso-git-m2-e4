@@ -1,2 +1,2 @@
-# curso-git-m2-e4
+# Curso Git y GitHub
 ## Creando ramas
